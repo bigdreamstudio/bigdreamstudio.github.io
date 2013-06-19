@@ -1,5 +1,0 @@
-..\assets\bootstrap\css\bootstrap.min.css
-..\assets\bootstrap\css\bootstrap-responsive.min.css
-..\assets\css\style.css
-..\assets\css\syntax.css
-..\assets\css\markdown.css
