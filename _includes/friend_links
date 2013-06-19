@@ -1,0 +1,5 @@
+{% if site.links %}
+  {% for link in site.links %}
+	<li><a href="{{ link.url }}" title="{{ link.title }}" target="_blank">{{ link.name }}</a></li>
+  {% endfor %}
+{% endif %}

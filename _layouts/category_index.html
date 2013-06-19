@@ -1,0 +1,25 @@
+---
+layout: default
+title: {{ page.category }}
+---
+<div class="row-fluid">
+<div class="well page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+
+{% for post in site.categories[page.category] %}
+    <div class="well thumbnail clearfix" style="margin-bottom:12px;background-color: rgba(255, 255, 255, 0.8);">
+	    <div class="caption">
+		   {% if post.thumbnail %}
+               <img src="{{ post.thumbnail }}" alt="" style="float:right;height:expression(this.height > 350 ? '350px': true);max-height:350px;width:expression(this.width > 400 ? '400px': true);max-width:400px;">
+           {% endif %}
+           <h3><a href="{{ post.url }}">{{ post.title }}</a> <small> Written by <a href="/about.html">bigdreamstudio</a> on {{ post.date | date:"%Y-%m-%d" }} in {{ post.categories | category_links }}</small></h3>
+		   <p>{% if post.excerpt %}
+                {{ post.excerpt | markdownify }}
+           {% endif %}</p>
+           <p><a href="{{ post.url }}/#more" class="btn btn-primary">阅读全文</a></p>
+        </div>
+    </div>
+{% endfor %}
+
+</div>
