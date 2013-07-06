@@ -5,7 +5,7 @@ category : working
 
 tags : [个人博客, 管理, 个人管理, 团队管理, 方法, 工作方法, 技巧, 自我提升]
 
-title : [转]上线前的准备工作
+title : 转：上线前的准备工作
 ---
 
 [阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63WGwyVTlaZEtwY28)
