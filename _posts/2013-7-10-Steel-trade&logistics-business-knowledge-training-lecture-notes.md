@@ -8,7 +8,7 @@ tags : [个人博客, 钢铁贸易, 作业流程, 培训, 管理, 团队管理, 
 title : 钢贸物流业务知识培训听课笔记
 ---
 
-[阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63bnJzbEZ4MGNqeEk#Email=zhougf.zhupp@gmail.com)
+[阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63cDZPQ2tkY1lhdG8)
 
 
 ## 一、仓储作业流程图（如下图）：
