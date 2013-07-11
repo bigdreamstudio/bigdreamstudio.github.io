@@ -456,4 +456,6 @@ title : 钢贸物流业务知识培训听课笔记
 
 ### PDA（Personal Digital Assistant）
 
+- PDA又称为掌上电脑，可以帮助我们完成在移动中工作，学习，娱乐等。按使用来分类，分为工业级PDA和消费品PDA。工业级PDA主要应用在工业领域，常见的有条码扫描器、rfid读写器、POS机等都可以称作PDA；消费品PDA包括的比较多，智能手机、平板电脑、手持的游戏机等。
+
 - 想了解更多，点击[more...](http://baike.baidu.com/view/30816.htm?fromId=1519)
