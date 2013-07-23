@@ -10,7 +10,7 @@ title : 仓鼠革命工作法
 
 ---
 
-[阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63ODBfU0EtRkVKTFk)
+[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63ODBfU0EtRkVKTFk)
 
 ## 工作思路与方法
 

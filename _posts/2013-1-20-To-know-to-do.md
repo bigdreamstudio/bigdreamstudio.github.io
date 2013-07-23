@@ -10,7 +10,7 @@ title : 知道做到
 
 ---
 
-[阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63anNRTWRzN0FHVHc)
+[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63anNRTWRzN0FHVHc)
 
 ## 前言
 

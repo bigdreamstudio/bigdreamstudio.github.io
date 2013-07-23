@@ -10,7 +10,7 @@ title : PPT演示之道
 
 ---
 
-[阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63UjY0NHhKWko2VTQ)
+[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63UjY0NHhKWko2VTQ)
 
 ## 给你的导读
 

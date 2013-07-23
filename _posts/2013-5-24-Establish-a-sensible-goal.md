@@ -8,7 +8,7 @@ tags : [个人博客, 管理, 个人管理, 团队管理, 企业管理, 方法, 
 title : 树立明智的目标
 ---
 
-[阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63bFdxa2lTamZ2cEE)
+[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63bFdxa2lTamZ2cEE)
 
 [返回目录](/manage/2013/04/07/Behind-closed-doors-secrets-of-great-management/)
 

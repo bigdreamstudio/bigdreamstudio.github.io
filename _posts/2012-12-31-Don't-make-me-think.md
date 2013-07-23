@@ -9,7 +9,7 @@ tags : [个人博客, 软件研发, 设计, web页面设计, 自我提升]
 title : Don't make me think!
 
 ---
-[阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63TFlOcXVaLVV2QU0)
+[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63TFlOcXVaLVV2QU0)
 
 ## 一、web设计的第一原则：别让我思考
 ###### （第1章）

@@ -10,7 +10,7 @@ title : 父母效能训练手册
 
 ---
 
-[阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63OEpLVDVxSEotb3c)
+[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63OEpLVDVxSEotb3c)
 
 ## 给你的导读
 

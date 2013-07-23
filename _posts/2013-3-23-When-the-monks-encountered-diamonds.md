@@ -8,7 +8,7 @@ tags : [个人博客, 金融, 理财, 金钱行为, 个人管理, 方法, 理念
 title : 当和尚遇到钻石
 ---
 
-[阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63MFNhY2xiUHRHblU)
+[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63MFNhY2xiUHRHblU)
 
 ## 给你的导读
 

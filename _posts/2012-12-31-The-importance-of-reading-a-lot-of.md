@@ -10,7 +10,7 @@ title : 大量阅读的重要性
 
 ---
 
-[阅读思维导图](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63OFlEMDViWWFJWnM)
+[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63OFlEMDViWWFJWnM)
 
 ## 为什么？
 
