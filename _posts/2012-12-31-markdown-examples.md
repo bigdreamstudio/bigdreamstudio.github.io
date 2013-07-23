@@ -1,21 +1,15 @@
 ---
-
 layout: post
 
 title: "Markdown语法示例"
 
-date: 2012-12-31 20:30
+date: 2012-12-31
 
 category: instructions
 
 tags: [个人博客, 使用说明, 工具, markdown, 平板文件]
-
 ---
 
-{% include JB/setup %}
-
-
-- - - 
 
 - 作者[Equation 85](http://equation85.github.com/)
 
