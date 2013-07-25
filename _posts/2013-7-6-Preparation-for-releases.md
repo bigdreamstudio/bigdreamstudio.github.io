@@ -8,7 +8,7 @@ tags : [个人博客, 管理, 个人管理, 团队管理, 方法, 工作方法, 
 title : 转：上线前的准备工作
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63WGwyVTlaZEtwY28)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esdmhNR3FJTDhvTG8/edit?usp=sharing)
 
 本文转自博客[Sam的小窝](http://samrain.github.com/)，原文链接为：[上线前准备](http://samrain.github.io/tech/2013/04/23/prepare-for-go-live/)
 

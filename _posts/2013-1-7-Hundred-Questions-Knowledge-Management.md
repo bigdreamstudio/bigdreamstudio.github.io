@@ -10,7 +10,7 @@ title : 百问知识管理
 
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63SXVsaHplal9MNTA)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esZnBlYVZ0blYwejQ/edit?usp=sharing)
 
 ## 准备期
 

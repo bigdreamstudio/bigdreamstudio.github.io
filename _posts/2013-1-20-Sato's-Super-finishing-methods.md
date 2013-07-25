@@ -10,7 +10,7 @@ title : 佐藤可士和的超整理术
 
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63dHN4NEkyWVhNYWs)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96escjhlNmVWS3R3RFk/edit?usp=sharing)
 
 ## 写书目的
 

@@ -8,7 +8,7 @@ tags : [个人博客, 管理, 个人管理, 团队管理, 方法, 工作方法, 
 title : 怎样解决“任务执行成果错误”的问题
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63b2dqLUI0eEdVWEE)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96escDFSbndfZXYwU2s/edit?usp=sharing)
 
 ## 描述现象
 

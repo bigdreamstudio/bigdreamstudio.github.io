@@ -10,7 +10,7 @@ title : 看透人心(问题篇)
 
 ---
 
-[下载思维导图文件](https://docs.google.com/file/d/0B6K98da0px63UE82Tk5YUEVvQUk/edit)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esOXh4Nk55aGZteGM/edit?usp=sharing)
 
 # 1、引子
 

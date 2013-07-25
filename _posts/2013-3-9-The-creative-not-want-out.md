@@ -10,7 +10,7 @@ title : 创意不是想出来的
 
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63aHVnTDF5c2p3UHM)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esRjhrRHB0YlhtZE0/edit?usp=sharing)
 
 ## 给你的导读
 

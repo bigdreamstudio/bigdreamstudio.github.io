@@ -10,7 +10,7 @@ title : 看透人心(方法篇)
 
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63Y2gyaTBqYmlfbGc)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esaFYzNmZuQzV1eTA/edit?usp=sharing)
 
 # 解决方案：三听
 

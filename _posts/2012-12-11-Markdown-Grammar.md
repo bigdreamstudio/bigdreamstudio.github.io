@@ -10,7 +10,7 @@ title : Markdown语法
 
 ---
 
-[下载思维导图文件](https://docs.google.com/open?id=0B1DrsqrLRzeIMmhPN3Bvc0ZlZG8)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esZTBxR3dOV3JnbHc/edit?usp=sharing)
 
 # 致谢
 

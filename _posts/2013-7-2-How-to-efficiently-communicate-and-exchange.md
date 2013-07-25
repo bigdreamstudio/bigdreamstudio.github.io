@@ -8,7 +8,7 @@ tags : [个人博客, 管理, 个人管理, 团队管理, 方法, 工作方法, 
 title : 如何进行高效沟通/交流
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63S1hXcEJLTEU0WG8)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esSGQ4dHJRRlJnZ28/edit?usp=sharing)
 
 ## 事前准备
 

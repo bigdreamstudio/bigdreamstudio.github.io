@@ -10,7 +10,7 @@ title : 把时间当作朋友
 
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63NnIxLXo0UTJRVkE)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esUkd0S0VWZzRZVjA/edit?usp=sharing)
 
 ## 心智的力量
 

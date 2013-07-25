@@ -9,7 +9,7 @@ title : 邻家的百万富翁
 
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63UXFvazR2cXBRYzQ)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esRWNVZzF1ZGtJSGc/edit?usp=sharing)
 
 #### 装富VS真富
 

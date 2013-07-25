@@ -10,7 +10,7 @@ title : 思考的整理术
 
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63SVdFV09kbklSSEk)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esVzN6NWZOck8tWnM/edit?usp=sharing)
 
 ## 独立思考，一生受用
 

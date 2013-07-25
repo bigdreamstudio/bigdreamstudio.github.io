@@ -8,7 +8,7 @@ tags : [个人博客, 管理, 个人管理, 团队管理, 企业管理, 方法, 
 title : 门后的秘密：卓越管理的故事
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63V3Y5eGltYjBja3c)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esc0tkbDVlRC1TRUU/edit?usp=sharing)
 
 ##### 给你的导读
 

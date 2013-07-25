@@ -8,7 +8,7 @@ tags : [个人博客, 管理, 个人管理, 团队管理, 企业管理, 方法, 
 title : 有效的会议
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63NDlRbndQblZ5R00)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esQ0lLRzB1d1ViTzA/edit?usp=sharing)
 
 [返回目录](/manage/2013/04/07/Behind-closed-doors-secrets-of-great-management/)
 

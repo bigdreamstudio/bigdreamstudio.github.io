@@ -10,7 +10,7 @@ title : 赢在今天
 
 ---
 
-[下载思维导图文件](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63VUpndDU2ckFZYlE)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esM2EwU1BXWUdMWjQ/edit?usp=sharing)
 
 ## 支离破碎的今天
 
