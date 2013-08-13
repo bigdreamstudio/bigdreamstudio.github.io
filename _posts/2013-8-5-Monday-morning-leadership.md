@@ -8,7 +8,7 @@ tags : [个人博客, 管理, 个人管理, 团队管理, 企业管理, 方法, 
 title : 《周一清晨的领导课》阅读笔记
 ---
 
-[下载思维导图文件](#)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esWVI0Ym9uT2RFZ1k/edit?usp=sharing)
 
 
 ## NO.1 司机与乘客
