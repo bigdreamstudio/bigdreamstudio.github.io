@@ -8,7 +8,7 @@ tags : [个人博客, 金融, 理财, 金钱行为, 个人无抵押, 贷款, 自
 title : 申办个人无抵押贷款所需材料
 ---
 
-[下载思维导图文件](#)
+[下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esYjBEOWFsVlZ6ejg/edit?usp=sharing)
 
 ## 提供材料
 
