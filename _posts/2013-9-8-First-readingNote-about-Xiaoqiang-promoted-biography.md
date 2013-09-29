@@ -5,7 +5,7 @@ category : learning
 
 tags : [个人博客, 管理, 个人管理, 团队管理, 知识管理, 时间管理, 学习, 自我提升]
 
-title : 《小强升职记》阅读笔记
+title : 《小强升职记》阅读笔记.寻找种子
 ---
 
 [下载思维导图文件](https://docs.google.com/file/d/0B7UFT4BR96esV01TeXl3ODRXWkk/edit?usp=sharing)
