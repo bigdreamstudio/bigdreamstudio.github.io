@@ -16,11 +16,13 @@ title : 《小强升职记》阅读笔记.寻找种子
 ### 一、你真的很忙吗
 
 - [时间统计表](https://docs.google.com/file/d/0B7UFT4BR96esLVdYdG1rTVdGVlE/edit?usp=sharing)
+
 ![](http://pic.yupoo.com/bigdreamstudio_v/DdnsEPKX/cyDig.jpg "时间日志比例（统计表）")
 
 ### 二、认识时间黑洞
 
 - 天时间日志
+
 ![](http://pic.yupoo.com/bigdreamstudio_v/DdnsENmo/12ib8I.jpg "天时间日志")
 
 ### 三、如何避开时间黑洞
