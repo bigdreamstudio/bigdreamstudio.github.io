@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-##53 Blog Posts:
+##54 Blog Posts:
 
 <ul class="posts">
   {% for post in site.posts limit 25 %}
