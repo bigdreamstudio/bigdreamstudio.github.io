@@ -13,7 +13,8 @@ pygments: true
 #
 title : 谱梦工作室
 tagline: Site Tagline
-paginate: 5 //每一页显示的文章数
+# 每一页显示的文章数
+paginate: 10
 author :
   name : Micheal Zhou
   email : 541430660@qq.com
